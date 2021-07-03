@@ -1,0 +1,36 @@
+/* common css start */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+ul,ol{
+list-style-type: none;
+}
+img{
+    vertical-align: middle;
+}
+a{
+    text-decoration: none;
+}
+body{
+
+}
+
+/* common css end */
+/* header part start */
+.header{
+    background: #6047ec;
+    height: 50px;
+    width: 1600px;
+}
+.header_icon{
+    width: 1140px;
+    height: 30px;
+}
+.header_icon img{
+    width: 200px;
+    margin-left: 30px;
+    padding-top: 12px;
+}
+/* header part end */
